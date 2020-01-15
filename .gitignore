@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #dependencies
 /mode_modules
+=======
+# install dependencies
+
+./node_modules/
+>>>>>>> 4a40c7ca4b96b0edc1778e2687a5457e0f5bc34e
